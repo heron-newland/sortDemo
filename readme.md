@@ -20,7 +20,7 @@
 * 空间复杂度: 运行完一个程序所需内存的大小。
 
 
-![]({{site.url}}/assets/images/sort/sortEfficient.png)
+![](https://github.com/heron-newland/sortDemo/blob/master/sort/sortEfficient.png)
 
 图片名词解释： n: 数据规模 k:“桶”的个数 In-place: 占用常数内存，不占用额外内存 Out-place: 占用额外内存
 
@@ -44,7 +44,7 @@
 
 #### (3)图解
 
-![]({{site.url}}/assets/images/sort/bubble.gif)
+![](https://github.com/heron-newland/sortDemo/blob/master/sort/bubble.gif)
 
 
 基本实现代码:
@@ -121,7 +121,7 @@ n个记录的直接选择排序可经过n-1趟直接选择排序得到有序结�
 
 #### (3)图解
 
-![]({{site.url}}/assets/images/sort/selection.gif)
+![](https://github.com/heron-newland/sortDemo/blob/master/sort/selection.gif)
 
 -
 		func selectionSort(){
@@ -168,7 +168,7 @@ n个记录的直接选择排序可经过n-1趟直接选择排序得到有序结�
 
 #### (3)图解
 
-![]({{site.url}}/assets/images/sort/insertion.gif)
+![](https://github.com/heron-newland/sortDemo/blob/master/sort/insertion.gif)
 
 -
 	///插入排序
